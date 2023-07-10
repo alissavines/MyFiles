@@ -1,9 +1,6 @@
 
 /**
  * This code will be used to check character.
- *
- * @Brennan Gilbert 
- * @9/26/22
  */
 import java.util.Scanner;
 
