@@ -1,9 +1,6 @@
 
 /**
  * This program will be used to convert measurements from the imperial system to the metric system.
- *
- * @Brennan Gilbert 
- * @11/28/22
  */
 import java.util.Scanner;
 //importing java scanner for user input
